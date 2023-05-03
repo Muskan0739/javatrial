@@ -1,6 +1,9 @@
 class skills
 {
-   public static void m()1{
+   public static void m(){
      //hello
     }
+    public static void m2(){
+      //hello
+     }
 }
